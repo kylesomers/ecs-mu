@@ -1,0 +1,22 @@
+{
+  "name": "ecs-mu",
+  "version": "1.0.0",
+  "description": "ecs mu playground repo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylesomers/ecs-mu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylesomers/ecs-mu/issues"
+  },
+  "homepage": "https://github.com/kylesomers/ecs-mu#readme"
+}
